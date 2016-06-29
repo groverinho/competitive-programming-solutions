@@ -1,10 +1,7 @@
 //
 //  jeopardy.cpp
 //  RPC
-//
-//  Created by Oscar Ruiz on 10/24/15.
-//  Copyright © 2015 Oscar Ruiz. All rights reserved.
-//
+
 #include <iostream>
 #include <stdio.h>
 #include <string>
