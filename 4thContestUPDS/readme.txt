@@ -1,4 +1,4 @@
-    Problem                               Judge   Level   Solution
+    Problem                                    Judge   Level   Solution
 -------------------------------------------------------------------------------------    
 1.	Lucky Thief	                          UVA	    3       @Greedy
 2.	Less Prime	                          UVA	    2	    Sieve of Eratostenes @Math
