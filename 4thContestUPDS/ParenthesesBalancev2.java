@@ -1,8 +1,10 @@
 import java.util.Scanner;
 import java.util.Stack;
-//Author: Grover Irusta
-//University: Universidad Privada Domingo Savio - Tarija
-//Date: 11-08-16
+/**
+Name: Grover Irusta Miranda
+Date: 13-07-2017
+Company: Coderoad - Mojix
+ */
 /*
 IN
 3
